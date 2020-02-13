@@ -1,0 +1,9 @@
+name: serpentine
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - matplotlib
+  - heliopy
+  - astropy

@@ -1,0 +1,30 @@
+# Ignore bytecode files
+*.py[cod]
+
+# Ignore compiled C/C++ code
+*.so
+
+# Ignore data output
+*.vtr
+*.npz
+*.visit
+
+# Ignore visit log files
+visitlog.py
+
+# Ignore visit sessions
+*.session
+*.session.gui
+
+# Ignore media files
+*.png
+*.mp4
+
+# Ignore data directory paths file
+data/
+
+# Ignore Jupyter tmp
+.ipynb_checkpoints/
+
+# Ignore macOS Desktop Services files
+.DS_Store
