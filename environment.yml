@@ -10,3 +10,5 @@ dependencies:
   - astropy
   - sunpy
   - ipywidgets
+  - pip:
+    - cdflib
