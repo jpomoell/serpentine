@@ -10,5 +10,7 @@ dependencies:
   - astropy
   - sunpy
   - ipywidgets
+  - vtk
   - pip:
     - cdflib
+    - k3d
