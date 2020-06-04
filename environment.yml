@@ -11,6 +11,7 @@ dependencies:
   - sunpy
   - ipywidgets
   - vtk
+  - k3d=2.7.2
+  - pip
   - pip:
     - cdflib
-    - k3d
